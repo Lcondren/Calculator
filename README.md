@@ -9,6 +9,7 @@
 
 #### Instructions to run the application
 1. User is asked to provide which operator 
+
 ![Simple Calculator](Calculator1.png)
 
 2. User is then asked to enter a number and the programme will provide a timestable for that number from 1-15
