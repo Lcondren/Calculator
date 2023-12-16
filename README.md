@@ -1,4 +1,4 @@
-Simple Calculator screenshots
+
 ![Simple Calculator](Calculator1.png)
 
 ![Simple Calculator](Calculator2.png)
