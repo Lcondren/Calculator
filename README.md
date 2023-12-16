@@ -5,6 +5,7 @@
 
 ### Built with
  - Vim text editor
+ - Powershell was used to run the application
 
 #### Instructions to run the application
 1. User is asked to provide which operator 
